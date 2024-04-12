@@ -1,10 +1,6 @@
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
-# Sponsor
-[<img src="https://github.com/coinpride/CryptoList/blob/master/join_cryptomemes.png?raw=true" width="467">](https://t.me/join_cryptomemes)
-
-
 # Contents
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
@@ -380,5 +376,3 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
-# License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
